@@ -1,0 +1,26 @@
+div .node {
+    background-color: white;
+    color: black;
+    margin: 3px;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+
+div .covered {
+    background-color: gray;
+}
+
+input {
+    width: 50px;
+}
+
+div .input {
+    margin: 5px;
+}
+
+button {
+    margin: 10px;
+}
